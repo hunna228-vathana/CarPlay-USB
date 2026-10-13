@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- 4884 = 0x1314, the USB vendor id used by Carlinkit-protocol boxes (Ottocast, Carlinkit, ...) -->
-    <usb-device vendor-id="4884" />
-</resources>
